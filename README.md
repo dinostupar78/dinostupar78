@@ -8,8 +8,8 @@ Through my studies and personal projects, I enjoy experimenting with different t
 
 ### 👨‍💻 About me
 
-- 🎓 Studying **Computer Engineering at TVZ** (3rd year)
-- 💻 Interested in **software development**
+- 🎓 Studying Computer Engineering at TVZ (3rd year)
+- 💻 Interested in software development
 - 🔍 Exploring different programming languages, frameworks, and development tools
 - 📚 Always learning and improving my technical skills
 
