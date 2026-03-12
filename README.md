@@ -17,5 +17,5 @@ Feel free to explore my projects and see what I've been working on. 🚀
 
 ### 📫 Connect with me
 
-💼 LinkedIn: [https://linkedin.com/in/dino-stupar](https://www.linkedin.com/in/dino-stupar-7809bb313/)<br>
+💼 LinkedIn: [https://linkedin.com/in/dinostupar](https://www.linkedin.com/in/dinostupar/)<br>
 📧 Email: dinostupar68@gmail.com
